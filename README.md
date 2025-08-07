@@ -47,7 +47,7 @@ This project repository includes a comprehensive set of SQL queries designed to 
 ## Queries and Analysis Areas
 
 ### Q1 Show all restaurants with their cuisine types.
-![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q1.2.png)
+![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q1.png)
 
 ### Q2 List all Indian restaurants in the database.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q2.png)
