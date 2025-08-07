@@ -45,51 +45,67 @@ food_restaurant_business Database – The primary dataset containing detailed re
 This project repository includes a comprehensive set of SQL queries designed to analyze the food_restaurant_business dataset. The queries cover customer behaviors, restaurant performance, menu pricing, delivery rider metrics, payment patterns, and revenue optimization strategies.
 
 ## Queries and Analysis Areas
--- Q1 Show all restaurants with their cuisine types.
+
+### Q1 Show all restaurants with their cuisine types.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q1.2.png)
--- Q2 List all Indian restaurants in the database.
+
+### Q2 List all Indian restaurants in the database.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q2.png)
--- Q3 Count how many riders use bikes versus cars.
+
+### Q3 Count how many riders use bikes versus cars.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q3.png)
--- Q4 Find all customers from cities starting with "Port".
+
+### Q4 Find all customers from cities starting with "Port".
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q4.png)
--- Q5 Display the top 5 most expensive menu items.
+
+### Q5 Display the top 5 most expensive menu items.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q5.png)
 
---- Intermediate SQL Questions:-
-
--- Q6 Find the average rating given by customers.
+### Q6 Find the average rating given by customers.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q6.png)
--- Q7 List orders with their restaurant names and customer names.
+
+### Q7 List orders with their restaurant names and customer names.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q7.png)
--- Q8 Show the total amount spent by each customer.
+
+### Q8 Show the total amount spent by each customer.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q8.png)
--- Q9 Find restaurants that haven't received any orders.
+
+### Q9 Find restaurants that haven't received any orders.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q9.png)
--- Q10 Calculate the average delivery time in minutes for each rider.
+
+### Q10 Calculate the average delivery time in minutes for each rider.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q10.png)
 
------ ADVANCED SQL QUESTIONS:-----
-
--- Q11 Find customers who have placed more than 3 orders.
+### Q11 Find customers who have placed more than 3 orders.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q11.png)
--- Q12 Show the most popular cuisine based on order count.
+
+### Q12 Show the most popular cuisine based on order count.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q12.png)
--- Q13 Find riders who have delivered orders with an average rating below 3.
+
+### Q13 Find riders who have delivered orders with an average rating below 3.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q13.png)
--- Q14 Calculate the percentage of orders paid by each payment method.
+
+### Q14 Calculate the percentage of orders paid by each payment method.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q14.png)
--- Q15 Find the busiest hour for order pickups.
+
+### Q15 Find the busiest hour for order pickups.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q15.png)
--- Q16 Find the month with the highest revenue.
+
+### Q16 Find the month with the highest revenue.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q16.png)
--- Q17 Find menu items that are priced above the average price of their restaurant's cuisine.
+
+### Q17 Find menu items that are priced above the average price of their restaurant's cuisine.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q17.png)
--- Q18: Identify restaurants with consistently high ratings (average rating > 4 from at least 3 reviews)
+
+### Q18: Identify restaurants with consistently high ratings (average rating > 4 from at least 3 reviews)
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q18.png)
--- Q19:  Find riders whose average delivery rating is below 3.
+
+### Q19:  Find riders whose average delivery rating is below 3.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q19.png)
--- Q20: List all orders with their associated customer names, restaurant names, and rider names.
+
+### Q20: List all orders with their associated customer names, restaurant names, and rider names.
 ![Customer Info](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/Q20.png)
 
 This README captures your project goals, key areas of analysis, tools used, and an overview of your comprehensive query set. If you want, I can assist in creating a detailed schema introduction, sample data inserts, or any other component for your project documentation. Just let me know!
+
+---
