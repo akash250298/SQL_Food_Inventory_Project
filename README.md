@@ -2,6 +2,8 @@ Food business project
 
 ## Food Restaurant Business Data Analysis Project
 
+![Project Banner](https://github.com/akash250298/SQL_Food_Inventory_Project/blob/main/Code%20Outputs/food.jpg)
+
 ## 📌 Project Overview
 
 - This project presents a comprehensive analysis of the food_restaurant_business database, aiming to uncover actionable insights that support data-driven decision-making. Using SQL as the primary tool, the analysis covers:
